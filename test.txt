@@ -1,4 +1,4 @@
-test git
+test
 commit A
 commit B
 commit C
